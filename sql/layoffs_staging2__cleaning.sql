@@ -4,12 +4,6 @@
 SELECT * FROM world_layoffs.layoffs;
 
 
-#-- 1. Remove Duplicates
-#-- 2. Standerized the Data
-#-- 3. Null Values or blank values
-#-- 4. Remove Any Columns
-
-
 #REMOVING DUPLICATES
 
 
