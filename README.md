@@ -1,4 +1,4 @@
-# Tech Layoffs SQL Project
+# Layoffs SQL Project
 
 This project analyzes and cleans tech layoff data using **MySQL**. It includes SQL scripts for cleaning the raw data and performing exploratory data analysis (EDA).
 
