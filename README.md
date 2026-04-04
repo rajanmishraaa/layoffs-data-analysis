@@ -19,7 +19,7 @@ This project analyzes and cleans tech layoff data using **MySQL**. It includes S
 - Date Formatting (`STR_TO_DATE`)
 - NULL Handling and Filtering
 - Aggregations and Grouping
-- Basic Joins and Subqueries
+- Joins and Subqueries
 - Data Deduplication and Standardization
 
 ##  Note on NULL Values
