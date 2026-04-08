@@ -38,7 +38,7 @@ These were intentionally left as NULL to avoid incorrect assumptions or fake dat
 - Filled missing `industry` values by referencing company data
 - Deleted rows with no meaningful layoff information
 
-##  Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis
 
 - Identified top companies and countries with the highest number of layoffs  
 - Tracked layoff trends over time (monthly breakdown)  
