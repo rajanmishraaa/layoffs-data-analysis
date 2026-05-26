@@ -5,10 +5,10 @@ This dashboard analyzes global tech layoffs from 2020–2023 using interactive v
 # Dashboard Preview
 
 ## Overview Page
-![Overview Dashboard](dashboards/overview_page.png)
+![Overview Dashboard](overview_page.png)
 
 ## Deep Dive Page
-![Deep Dive Dashboard](dashboards/deep_dive_page.png)
+![Deep Dive Dashboard](deep_dive_page.png)
 
 ### Overview
 - KPI summary
