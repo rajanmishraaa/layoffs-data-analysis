@@ -2,16 +2,18 @@
 
 This dashboard analyzes global tech layoffs from 2020–2023 using interactive visualizations built in Power BI.
 
-##dashbaord preview
+# Dashboard Preview
+
+## Overview Page
 ![Overview Dashboard](dashboards/overview_page.png)
+
+## Deep Dive Page
+![Deep Dive Dashboard](dashboards/deep_dive_page.png)
 
 ### Overview
 - KPI summary
 - Layoff trends over time
 - Country and industry analysis
-
-##dashboard preview
-![Deep Dive Dashboard](dashboards/deep_dive_page.png)
 
 ### Deep Dive
 - Funding vs layoffs scatter plot
